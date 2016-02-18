@@ -1,1 +1,1 @@
-This a test blog app for learning purposese.
+This is a test blog app for learning purposes.
